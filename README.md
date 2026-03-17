@@ -30,8 +30,7 @@
 > | Repo | Description |
 > |------|-------------|
 > | [followupboss-mcp](https://github.com/travisanderson206-beep/followupboss-mcp) | MCP server connecting AI agents to Follow Up Boss CRM |
-> | [neovrse-production-scripts](https://github.com/travisanderson206-beep/neovrse-production-scripts) | Python pipeline for AI-driven anime production |
-> | [srg-tour-guide](https://github.com/travisanderson206-beep/srg-tour-guide) | Mobile-first leasing tour guide — deployed live |
+  > [srg-tour-guide](https://github.com/travisanderson206-beep/srg-tour-guide) | Mobile-first leasing tour guide — deployed live |
 > | [tour-command-dashboard](https://github.com/travisanderson206-beep/tour-command-dashboard) | Agent-facing tour operations dashboard — deployed live |
 >
 > ---
